@@ -2,7 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import Title from './components/Title';
 import RankTable from './components/RankTable';
-import Info from './components/Info';
+import Info from './components/info';
 
 function App() {
   const [count, setCount] = useState(0);
